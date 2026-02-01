@@ -1,4 +1,4 @@
-👋 Hi, I’m S-57
+👋 Hi, I’m Shriniwas Mahajan
 🎓 Electronics & Communication Engineering (ECE) Student | Digital Design & Verilog Enthusiast
 🔭 I’m currently working on:
 Digital logic projects, Verilog-based designs, and basic embedded system applications
